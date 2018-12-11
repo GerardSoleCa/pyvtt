@@ -18,7 +18,7 @@ if sys.version_info < (2, 7):
     REQUIRES.append('argparse')
 
 setup(name='pyvtt',
-      version='0.0.1',
+      version='0.0.2',
       author='Guillem Cabrera',
       author_email='"Guillem Cabrera" <guillemcabrera@gmail.com>',
       packages=['pyvtt'],
