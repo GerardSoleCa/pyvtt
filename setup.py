@@ -20,7 +20,7 @@ if sys.version_info < (2, 7):
 setup(name='pyvtt',
       version='0.0.1',
       author='Guillem Cabrera',
-      author_email='guillemcabrera[at]gmail.com',
+      author_email='"Guillem Cabrera" <guillemcabrera@gmail.com>',
       packages=['pyvtt'],
       test_suite='tests',
       use_2to3=False,
